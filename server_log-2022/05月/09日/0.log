@@ -1,0 +1,132 @@
+2022-05-09 22:32:46.561  INFO 4896 --- [restartedMain] m.s.SpringBootCacheApplication           : Starting SpringBootCacheApplication using Java 16.0.2 on mao with PID 4896 (H:\程序\大三下期\spring_boot缓存的使用\target\classes started by mao in H:\程序\大三下期\spring_boot缓存的使用)
+2022-05-09 22:32:46.562 DEBUG 4896 --- [restartedMain] m.s.SpringBootCacheApplication           : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 22:32:46.563  INFO 4896 --- [restartedMain] m.s.SpringBootCacheApplication           : The following 1 profile is active: "dev"
+2022-05-09 22:32:46.606  INFO 4896 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-09 22:32:46.606  INFO 4896 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-09 22:32:47.507  INFO 4896 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-09 22:32:47.514  INFO 4896 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-09 22:32:47.515  INFO 4896 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-09 22:32:47.572  INFO 4896 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-09 22:32:47.572  INFO 4896 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 965 ms
+2022-05-09 22:32:47.649  INFO 4896 --- [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-09 22:32:47.754  INFO 4896 --- [restartedMain] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-09 22:32:48.252  INFO 4896 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-09 22:32:48.286  INFO 4896 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-09 22:32:48.297  INFO 4896 --- [restartedMain] m.s.SpringBootCacheApplication           : Started SpringBootCacheApplication in 2.254 seconds (JVM running for 2.939)
+2022-05-09 22:32:55.520  INFO 4896 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-09 22:32:55.521  INFO 4896 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-09 22:44:35.213  INFO 16396 --- [main] mao.spring_boot_cache.CacheTest          : Starting CacheTest using Java 16.0.2 on mao with PID 16396 (started by mao in H:\程序\大三下期\spring_boot缓存的使用)
+2022-05-09 22:44:35.214 DEBUG 16396 --- [main] mao.spring_boot_cache.CacheTest          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 22:44:35.215  INFO 16396 --- [main] mao.spring_boot_cache.CacheTest          : The following 1 profile is active: "dev"
+2022-05-09 22:44:36.316  INFO 16396 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-09 22:44:36.609  INFO 16396 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-09 22:44:38.303  INFO 16396 --- [main] mao.spring_boot_cache.CacheTest          : Started CacheTest in 3.524 seconds (JVM running for 4.47)
+2022-05-09 22:44:39.564 DEBUG 16396 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:44:39.603 DEBUG 16396 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:44:39.630 DEBUG 16396 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:44:39.651  INFO 16396 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-09 22:44:39.656  INFO 16396 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-09 22:45:46.898  INFO 13624 --- [main] mao.spring_boot_cache.CacheTest          : Starting CacheTest using Java 16.0.2 on mao with PID 13624 (started by mao in H:\程序\大三下期\spring_boot缓存的使用)
+2022-05-09 22:45:46.899 DEBUG 13624 --- [main] mao.spring_boot_cache.CacheTest          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 22:45:46.899  INFO 13624 --- [main] mao.spring_boot_cache.CacheTest          : The following 1 profile is active: "dev"
+2022-05-09 22:45:47.931  INFO 13624 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-09 22:45:48.204  INFO 13624 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-09 22:45:49.783  INFO 13624 --- [main] mao.spring_boot_cache.CacheTest          : Started CacheTest in 3.306 seconds (JVM running for 4.177)
+2022-05-09 22:45:50.881 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.928 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.960 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.963 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.964 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.966 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.967 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.968 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.969 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.971 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.972 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.974 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.975 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.975 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.977 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.977 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.978 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.980 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.981 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.981 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.983 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.983 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.984 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.987 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.987 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.988 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.989 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.990 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.991 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.993 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:50.993 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:45:50.994 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:45:50.995 DEBUG 13624 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:45:51.029  INFO 13624 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-09 22:45:51.037  INFO 13624 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-09 22:47:30.617  INFO 8056 --- [main] mao.spring_boot_cache.CacheTest          : Starting CacheTest using Java 16.0.2 on mao with PID 8056 (started by mao in H:\程序\大三下期\spring_boot缓存的使用)
+2022-05-09 22:47:30.618 DEBUG 8056 --- [main] mao.spring_boot_cache.CacheTest          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 22:47:30.619  INFO 8056 --- [main] mao.spring_boot_cache.CacheTest          : The following 1 profile is active: "dev"
+2022-05-09 22:47:31.688  INFO 8056 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-09 22:47:31.953  INFO 8056 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-09 22:47:33.570  INFO 8056 --- [main] mao.spring_boot_cache.CacheTest          : Started CacheTest in 3.393 seconds (JVM running for 4.337)
+2022-05-09 22:47:34.696 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.742 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.775 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.777 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.778 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.779 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.780 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.780 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.782 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.782 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.783 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.784 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.785 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.786 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.787 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.788 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.788 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.790 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.791 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.792 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.793 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.794 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.794 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.796 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.796 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.797 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.798 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.798 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.799 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.800 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.800 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.801 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.802 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.803 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.803 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.805 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.805 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.806 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.807 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.808 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.808 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.809 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.810 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.810 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.812 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.813 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.814 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.817 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.819 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.819 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.820 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.821 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.821 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.822 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:47:34.823 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:47:34.823 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:47:34.824 DEBUG 8056 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1

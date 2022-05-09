@@ -1,0 +1,39 @@
+2022-05-09 22:49:21.510  INFO 14432 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-09 22:49:21.756  INFO 14432 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-09 22:49:23.385  INFO 14432 --- [main] mao.spring_boot_cache.CacheTest          : Started CacheTest in 3.379 seconds (JVM running for 4.291)
+2022-05-09 22:49:24.373 DEBUG 14432 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:49:24.409 DEBUG 14432 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:49:24.435 DEBUG 14432 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:49:24.462 DEBUG 14432 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:49:24.463 DEBUG 14432 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:49:24.464 DEBUG 14432 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:49:24.506  INFO 14432 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-09 22:49:24.510  INFO 14432 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-09 22:49:38.329  INFO 19072 --- [main] mao.spring_boot_cache.CacheTest          : Starting CacheTest using Java 16.0.2 on mao with PID 19072 (started by mao in H:\程序\大三下期\spring_boot缓存的使用)
+2022-05-09 22:49:38.331 DEBUG 19072 --- [main] mao.spring_boot_cache.CacheTest          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 22:49:38.331  INFO 19072 --- [main] mao.spring_boot_cache.CacheTest          : The following 1 profile is active: "dev"
+2022-05-09 22:49:39.399  INFO 19072 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-09 22:49:39.669  INFO 19072 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-09 22:49:41.283  INFO 19072 --- [main] mao.spring_boot_cache.CacheTest          : Started CacheTest in 3.353 seconds (JVM running for 4.326)
+2022-05-09 22:49:42.362 DEBUG 19072 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:49:42.402 DEBUG 19072 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:49:42.434 DEBUG 19072 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:49:42.460 DEBUG 19072 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:49:42.461 DEBUG 19072 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:49:42.462 DEBUG 19072 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:49:42.533  INFO 19072 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-09 22:49:42.541  INFO 19072 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-09 22:51:01.592  INFO 16460 --- [main] mao.spring_boot_cache.CacheTest          : Starting CacheTest using Java 16.0.2 on mao with PID 16460 (started by mao in H:\程序\大三下期\spring_boot缓存的使用)
+2022-05-09 22:51:01.593 DEBUG 16460 --- [main] mao.spring_boot_cache.CacheTest          : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 22:51:01.594  INFO 16460 --- [main] mao.spring_boot_cache.CacheTest          : The following 1 profile is active: "dev"
+2022-05-09 22:51:02.632  INFO 16460 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-09 22:51:02.896  INFO 16460 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-09 22:51:04.521  INFO 16460 --- [main] mao.spring_boot_cache.CacheTest          : Started CacheTest in 3.349 seconds (JVM running for 4.249)
+2022-05-09 22:51:05.495 DEBUG 16460 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:51:05.531 DEBUG 16460 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:51:05.564 DEBUG 16460 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:51:05.592 DEBUG 16460 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:51:05.592 DEBUG 16460 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:51:05.594 DEBUG 16460 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:51:05.663  INFO 16460 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-09 22:51:05.669  INFO 16460 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
