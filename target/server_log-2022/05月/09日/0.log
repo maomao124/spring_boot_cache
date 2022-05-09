@@ -1,0 +1,170 @@
+2022-05-09 22:56:50.253  INFO 14936 --- [main] m.s.SpringBootCacheApplication           : Starting SpringBootCacheApplication v0.0.1-SNAPSHOT using Java 16.0.2 on mao with PID 14936 (H:\程序\大三下期\spring_boot缓存的使用\target\spring_boot_cache-0.0.1-SNAPSHOT.jar started by mao in H:\程序\大三下期\spring_boot缓存的使用\target)
+2022-05-09 22:56:50.256 DEBUG 14936 --- [main] m.s.SpringBootCacheApplication           : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 22:56:50.257  INFO 14936 --- [main] m.s.SpringBootCacheApplication           : The following 1 profile is active: "dev"
+2022-05-09 22:56:51.699  INFO 14936 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-05-09 22:56:51.713  INFO 14936 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-09 22:56:51.714  INFO 14936 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-09 22:56:51.793  INFO 14936 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-09 22:56:51.794  INFO 14936 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1479 ms
+2022-05-09 22:56:51.952  INFO 14936 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-09 22:56:52.188  INFO 14936 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-09 22:56:53.262  INFO 14936 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-05-09 22:56:53.280  INFO 14936 --- [main] m.s.SpringBootCacheApplication           : Started SpringBootCacheApplication in 3.606 seconds (JVM running for 4.044)
+2022-05-09 22:57:00.262  INFO 14936 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-09 22:57:00.262  INFO 14936 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-05-09 22:57:00.265  INFO 14936 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-05-09 22:57:00.310 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.controller.HTMLPageController        : IP：0:0:0:0:0:0:0:1 访问静态资源books.html
+2022-05-09 22:57:00.559 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:01.037 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:01.074 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:01.106 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:01.114 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:01.116 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:01.120 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:57:04.636 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:04.638 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:04.638 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:04.640 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:04.641 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:04.641 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:04.644 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:57:05.961 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:05.963 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:05.964 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:05.966 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:05.967 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:05.967 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:05.969 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:57:06.687 DEBUG 14936 --- [http-nio-8080-exec-2] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:06.689 DEBUG 14936 --- [http-nio-8080-exec-2] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:06.690 DEBUG 14936 --- [http-nio-8080-exec-2] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:06.692 DEBUG 14936 --- [http-nio-8080-exec-2] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:06.692 DEBUG 14936 --- [http-nio-8080-exec-2] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:06.693 DEBUG 14936 --- [http-nio-8080-exec-2] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:06.695 DEBUG 14936 --- [http-nio-8080-exec-2] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:57:13.960 DEBUG 14936 --- [http-nio-8080-exec-3] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:13.962 DEBUG 14936 --- [http-nio-8080-exec-3] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:13.962 DEBUG 14936 --- [http-nio-8080-exec-3] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:13.964 DEBUG 14936 --- [http-nio-8080-exec-3] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:13.965 DEBUG 14936 --- [http-nio-8080-exec-3] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?,?
+2022-05-09 22:57:13.966 DEBUG 14936 --- [http-nio-8080-exec-3] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long), 10(Long)
+2022-05-09 22:57:13.967 DEBUG 14936 --- [http-nio-8080-exec-3] m.s.dao.BookDao.selectPage               : <==      Total: 2
+2022-05-09 22:57:15.994 DEBUG 14936 --- [http-nio-8080-exec-4] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:15.996 DEBUG 14936 --- [http-nio-8080-exec-4] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:15.997 DEBUG 14936 --- [http-nio-8080-exec-4] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:15.999 DEBUG 14936 --- [http-nio-8080-exec-4] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:16.000 DEBUG 14936 --- [http-nio-8080-exec-4] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:16.001 DEBUG 14936 --- [http-nio-8080-exec-4] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:16.002 DEBUG 14936 --- [http-nio-8080-exec-4] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:57:20.691 DEBUG 14936 --- [http-nio-8080-exec-7] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:20.693 DEBUG 14936 --- [http-nio-8080-exec-7] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:20.694 DEBUG 14936 --- [http-nio-8080-exec-7] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:20.696 DEBUG 14936 --- [http-nio-8080-exec-7] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:20.697 DEBUG 14936 --- [http-nio-8080-exec-7] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:20.697 DEBUG 14936 --- [http-nio-8080-exec-7] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:20.699 DEBUG 14936 --- [http-nio-8080-exec-7] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:57:42.667 DEBUG 14936 --- [http-nio-8080-exec-6] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:42.669 DEBUG 14936 --- [http-nio-8080-exec-6] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:42.669 DEBUG 14936 --- [http-nio-8080-exec-6] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:42.673 DEBUG 14936 --- [http-nio-8080-exec-6] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:42.675 DEBUG 14936 --- [http-nio-8080-exec-6] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?,?
+2022-05-09 22:57:42.676 DEBUG 14936 --- [http-nio-8080-exec-6] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long), 10(Long)
+2022-05-09 22:57:42.679 DEBUG 14936 --- [http-nio-8080-exec-6] m.s.dao.BookDao.selectPage               : <==      Total: 2
+2022-05-09 22:57:45.273 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:45.275 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:45.276 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:45.278 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:45.279 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:45.279 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:45.281 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:57:47.676 DEBUG 14936 --- [http-nio-8080-exec-9] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:47.678 DEBUG 14936 --- [http-nio-8080-exec-9] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:47.679 DEBUG 14936 --- [http-nio-8080-exec-9] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:47.683 DEBUG 14936 --- [http-nio-8080-exec-9] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:47.683 DEBUG 14936 --- [http-nio-8080-exec-9] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?,?
+2022-05-09 22:57:47.684 DEBUG 14936 --- [http-nio-8080-exec-9] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long), 10(Long)
+2022-05-09 22:57:47.685 DEBUG 14936 --- [http-nio-8080-exec-9] m.s.dao.BookDao.selectPage               : <==      Total: 2
+2022-05-09 22:57:50.057 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:50.059 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:50.060 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:50.062 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:50.063 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:50.063 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:50.065 DEBUG 14936 --- [http-nio-8080-exec-8] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:57:55.487 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:55.489 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:55.490 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:55.493 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:55.493 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?,?
+2022-05-09 22:57:55.494 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long), 10(Long)
+2022-05-09 22:57:55.495 DEBUG 14936 --- [http-nio-8080-exec-10] m.s.dao.BookDao.selectPage               : <==      Total: 2
+2022-05-09 22:57:57.656 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:57:57.658 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:57:57.659 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:57:57.661 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:57:57.661 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?
+2022-05-09 22:57:57.662 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long)
+2022-05-09 22:57:57.664 DEBUG 14936 --- [http-nio-8080-exec-1] m.s.dao.BookDao.selectPage               : <==      Total: 10
+2022-05-09 22:58:05.378 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.controller.BookController            : 查询，查询参数：id：null
+type：
+name：
+description：
+
+2022-05-09 22:58:05.380 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage_mpCount       : ==>  Preparing: SELECT COUNT(*) AS total FROM book
+2022-05-09 22:58:05.381 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage_mpCount       : ==> Parameters: 
+2022-05-09 22:58:05.382 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage_mpCount       : <==      Total: 1
+2022-05-09 22:58:05.383 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage               : ==>  Preparing: SELECT id,type,name,description FROM book LIMIT ?,?
+2022-05-09 22:58:05.384 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage               : ==> Parameters: 10(Long), 10(Long)
+2022-05-09 22:58:05.385 DEBUG 14936 --- [http-nio-8080-exec-5] m.s.dao.BookDao.selectPage               : <==      Total: 2
