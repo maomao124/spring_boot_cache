@@ -1,0 +1,512 @@
+2022-05-09 22:56:24.823 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.824 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.825 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.826 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.827 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.828 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.830 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.832 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.833 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.834 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.834 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.835 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.836 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.836 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.837 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.837 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.838 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.838 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.839 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.840 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.840 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.840 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.841 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.841 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.841 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.842 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.842 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.842 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.843 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.843 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.843 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.844 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.844 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.844 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.845 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.845 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.845 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.846 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.846 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.847 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.847 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.847 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.848 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.848 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.848 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.849 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.849 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.849 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.850 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.850 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.851 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.851 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.852 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.852 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.852 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.852 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.853 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.853 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.853 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.853 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.854 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.855 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.855 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.856 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.856 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.856 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.857 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.857 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.857 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.858 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.858 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.858 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.859 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.859 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.859 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.860 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.860 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.860 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.861 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.861 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.862 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.862 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.863 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.863 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.864 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.864 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.865 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.866 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.866 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.866 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.867 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.868 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.868 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.869 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.869 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.869 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.870 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.870 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.870 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.871 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.872 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.872 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.872 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.873 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.873 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.873 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.874 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.874 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.875 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.875 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.875 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.876 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.876 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.876 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.877 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.878 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.878 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.879 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.879 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.879 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.880 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.880 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.881 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.882 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.882 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.882 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.883 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.883 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.884 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.885 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.885 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.886 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.887 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.887 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.887 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.888 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.889 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.889 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.890 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.890 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.891 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.891 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.892 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.892 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.893 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.893 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.894 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.894 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.895 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.895 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.896 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.897 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.897 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.898 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.898 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.899 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.899 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.900 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.900 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.901 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.901 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.902 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.902 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.903 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.903 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.904 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.904 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.904 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.905 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.906 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.906 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.907 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.907 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.908 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.909 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.909 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.909 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.910 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.910 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.911 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.912 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.912 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.912 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.913 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.914 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.914 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.915 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.915 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.915 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.916 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.916 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.917 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.917 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.918 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.918 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.919 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.919 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.919 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.920 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.920 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.921 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.921 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.922 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.922 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.923 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.923 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.923 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.924 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.924 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.925 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.925 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.926 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.926 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.927 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.927 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.927 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.928 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.928 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.928 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.929 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.929 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.929 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.930 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.930 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.931 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.932 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.932 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.932 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.933 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.934 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.934 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.935 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.935 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.935 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.936 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.936 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.936 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.937 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.938 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.938 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.939 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.939 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.939 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.940 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.941 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.941 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.942 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.942 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.942 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.943 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.944 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.944 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.945 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.945 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.945 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.946 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.946 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.947 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.947 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.948 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.948 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.949 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.949 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.949 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.950 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.951 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.951 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.951 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.952 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.952 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.953 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.953 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.953 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.954 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.954 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.954 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.955 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.955 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.955 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.956 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.956 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.957 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.957 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.958 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.958 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.959 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.959 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.959 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.960 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.961 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.961 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.962 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.962 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.962 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.963 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.963 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.963 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.964 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.965 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.965 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.966 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.966 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.966 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.967 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.967 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.967 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.968 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.968 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.969 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.969 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.970 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.970 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.971 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.971 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.972 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.973 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.973 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.973 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.974 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.975 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.975 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.976 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.977 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.977 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.978 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.979 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.979 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.980 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.980 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.980 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.981 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.982 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.982 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.983 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.983 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.983 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.984 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.984 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.985 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.985 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.986 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.986 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.987 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.987 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.987 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.988 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.988 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.988 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.989 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.990 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.990 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.991 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.991 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.991 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.992 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.993 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.993 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.994 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.994 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.994 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.995 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.995 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.995 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.996 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.996 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.997 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.998 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.998 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.998 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:24.999 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:24.999 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:24.999 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.001 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.001 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.001 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.002 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.002 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.003 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.003 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.004 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.004 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.005 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.005 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.005 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.006 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.006 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.007 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.008 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.008 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.009 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.010 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.011 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.011 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.012 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.013 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.013 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.014 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.015 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.015 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.016 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.016 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.017 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.018 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.018 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.018 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.020 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.020 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.020 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.021 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.022 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.022 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.023 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.023 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.024 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.025 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.025 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.025 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.026 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.026 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.027 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.027 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.028 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.028 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.029 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.029 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.029 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.030 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.030 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.030 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.031 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.031 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.031 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.032 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.032 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.033 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.033 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.034 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.034 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.035 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.035 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.035 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.036 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.036 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.036 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.037 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.037 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.037 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.038 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.039 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.039 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.040 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.040 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.040 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.041 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.041 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.042 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.042 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.043 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.043 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.044 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.045 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.045 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.046 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.046 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.046 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.048 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.048 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.048 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.049 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.049 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.049 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.050 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.051 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.051 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.051 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.052 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.052 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.053 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.053 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.053 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.054 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.054 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.054 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.055 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.056 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.056 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.057 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.057 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.057 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.058 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.058 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.059 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.059 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.060 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.060 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.061 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.061 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.061 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.062 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.063 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.063 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.063 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.064 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.064 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.065 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.065 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.065 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.066 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.067 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
+2022-05-09 22:56:25.067 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==> Parameters: 1(Integer)
+2022-05-09 22:56:25.068 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : <==      Total: 1
+2022-05-09 22:56:25.068 DEBUG 15888 --- [main] m.s.dao.BookDao.selectById               : ==>  Preparing: SELECT id,type,name,description FROM book WHERE id=?
